@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonardoAFariasM
 - 👀 I’m interested in Learning Coding, Cycling and Bakery
-- 🌱 I’m currently learning VueJS
+- 🌱 HTML,CSS,JS,PHP,SQL
 - 💞️ I’m looking to collaborate on Anything that can bring experience to my learning path
 - 📫 How to reach me leonardoafariasm@gmail.com
 
