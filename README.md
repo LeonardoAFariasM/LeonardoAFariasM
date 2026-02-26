@@ -6,8 +6,6 @@
 😎 Actualmente me encuentro profesionalizando mis conocimiento acerca de React, Angular <br> 
 y mi "framework favorito" AstroJS a traves de mi agencia de diseño web y marketing "Trivita".
 
-[![stats del github de Leo](https://github-readme-stats.vercel.app/api?username=LeonardoAFariasM&show_icons=true&theme=radical)](https://github.com/LeonardoAFariasM/github-readme-stats)
-
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardo.afm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leonardo-farias-a8100b240) [![Mi sitio web](https://img.shields.io/badge/Sitio%20Web-%2300AFEF.svg?logo=globe&logoColor=white)](https://soyleodev.com) 
 
